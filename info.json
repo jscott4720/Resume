@@ -1,0 +1,25 @@
+{
+    "name": "Jeremiah Scott",
+    "website": "https://github.com/jscott4720",
+    "linkedin": "https://www.linkedin.com/in/jeremiah-scott-45559a1a4/",
+    "github": "jscott4720",
+    "email": "jscott4720@gmail.com",
+    "resume": "https://drive.google.com/file/d/1I6Nwz8vY2zllFQ6uNHz2MLuQ6ATvaW1I/view?usp=sharing",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "I lift"
+       
+    ]
+}
